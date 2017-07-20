@@ -9,4 +9,5 @@ public class DespachoEncomenda {
 	public Tarifa tarifa;
 	public Encomenda encomenda;
 	public Date dataDespacho;
+	public String nomeDespachante;
 }
